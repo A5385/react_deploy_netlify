@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Pizza"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Bread"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Milk"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Cookies"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "Chips"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "Potato"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "Almonds"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "Candy"
+    }
+  ]
+}
